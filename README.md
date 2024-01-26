@@ -2,6 +2,6 @@
 
 This is my git hub;
 <br>
-Auther- mohit kumar
+Auther- mohit singh
 <br>
-vill-rajpur - Nagla
+Block-Khair 
